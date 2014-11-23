@@ -1,0 +1,38 @@
+body{
+	width:700px;
+	height:800px;
+	background-color:white;
+	font-family:arial;
+}
+
+h1{
+	font-family:arial;
+	font-size:25px;
+}
+
+a {
+	color:white;
+	text-decoration:none;
+}
+
+.button1{
+	color:white;
+	padding:10px;
+	font-size:20px;
+	width:80px;
+	background:blue;
+}
+
+.button2{
+	color:white;
+	padding:12px;
+	padding-right:0px;
+	background:grey;
+	width:142px;
+	}
+
+.button2-2 {
+	color:white;
+	background:blue;
+	padding:12px;
+	}

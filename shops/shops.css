@@ -1,0 +1,43 @@
+.frame{
+	width:972px;
+	height:565px;
+	background:white;
+}
+
+body{
+	background:green;
+	font-family:arial;
+	text-align:center;
+}
+
+.buttons{
+	background:white;
+	padding:8px;
+	display:inline;	
+	font-weight:bold;
+	color:#3F8FEE;
+	}
+	
+a:link, a:visited{
+	padding:8px;
+	color:white;
+	text-decoration:none;
+	font-weight:bold;
+	background-color:#3F8FEE;
+	}
+ 
+.table_row{
+	margin:10px;
+	margin-left:16px;
+	width:944px;
+	height:250px;
+	display:block;
+}
+    
+.table_cells {
+	margin-top:10px;
+	padding:10px;
+	display:inline;
+	border:#3F8FEE 1px;
+	overflow:hidden;
+	}
